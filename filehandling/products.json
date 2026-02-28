@@ -1,0 +1,14 @@
+ [
+    {
+        "id": "P101",
+        "name": "Laptop",
+        "price": 45000,
+        "stock":10
+    },
+    {
+        "id": "P102",
+        "name": "LED TV",
+        "price": 15000,
+        "stock":20
+    }
+]
